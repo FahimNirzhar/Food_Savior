@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Food Savior</string>
+    <string-array name="type_name">
+        <item> Donor  </item>
+        <item> Volunteer </item>
+    </string-array>
+    <string name="title_activity_voluntter">VoluntterActivity</string>
+    <string name="title_activity_donor_content">DonorContent</string>
+    <string name="aboutus1">
+        Vision: To be the prevailing centralised coordinating
+organisation for all food donations and play a
+key role in the reduction of food wastage within
+the whole supply chain.</string>
+    <string name="aboutus2">
+
+Mission: To bridge potential donors and members.
+To provide access to and knowledge of cheaper sources
+ of food for members.To look at ways to reduce food wastage by giving food
+a new lease of life through creative and alternative
+ways.</string>
+    <string name="developers1">
+        Afsara Jahin Rafi,
+        Institute Of Information Technology,
+        Jahangrnagar University.
+    </string>
+    <string name="developers2">
+        Rahman Masuk Orpon,
+        Institute Of Information Technology,
+        Jahangrnagar University.
+    </string>
+    <string name="developers3">
+       Fahim Alam Nirzhar,
+        Institute Of Information Technology,
+        Jahangrnagar University.
+    </string>
+
+</resources>

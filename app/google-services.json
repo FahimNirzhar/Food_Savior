@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "123131097580",
+    "firebase_url": "https://food-saver.firebaseio.com",
+    "project_id": "food-saver",
+    "storage_bucket": "food-saver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123131097580:android:27d0b0aa7839d68b",
+        "android_client_info": {
+          "package_name": "com.example.autobot.foodwastagesaver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123131097580-k671gvv2fe6bgtr6hvitpie9nuu7ee57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzn5nS9YW-FdI9tCsDDylnnhpi_qmSo5M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

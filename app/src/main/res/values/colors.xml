@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#29273e</color>
+    <color name="colorPrimaryDark">#29273E</color>
+    <color name="colorAccent">#29273E</color>
+    <color name="Phone">#999999</color>
+    <color name="Address">#222222</color>
+</resources>
